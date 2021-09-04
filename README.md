@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shashank-c2000
 - 👀 I’m interested in coding
 - 🌱 I’m currently doing my graduation
+- Under Graduate @ Sjec | aspiring to become SDE | Coding Enthusiasts| web developer
 
 
 <!---
